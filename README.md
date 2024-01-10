@@ -1,2 +1,2 @@
 # NUMA01
-Read the PDF for more information regarding the finite element method
+A course in Computational Programming with Python and Lund University, Sweden.
